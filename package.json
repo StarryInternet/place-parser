@@ -1,6 +1,6 @@
 {
   "name": "place-parser",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Break Google Places up into US address components",
   "author": "Kevin Ennis <kennis84@gmail.com",
   "scripts": {
