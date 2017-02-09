@@ -1,6 +1,6 @@
 # place-parser
 
-![Codeship badge](https://codeship.com/projects/7511ff80-ca34-0134-b4f2-7e371e5d68a3/status)
+[![Build Status](https://travis-ci.org/StarryInternet/place-parser.svg?branch=master)](https://travis-ci.org/StarryInternet/place-parser)
 
 Break Google Places up into US address components
 
